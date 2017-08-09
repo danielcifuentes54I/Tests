@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:ConverterTemperature"
+             x:Class="ConverterTemperature.MainPage">
+
+    <StackLayout>
+        <Label Text="Convert Centigrade to Celsius" 
+           VerticalOptions="Center" 
+           HorizontalOptions="Center" />
+
+        <Label Text="Centigrade grades" 
+             />
+
+        <Entry x:Name="centigradeEntry"
+               Placeholder="Enter centigrade grades"
+            ></Entry>
+
+        <Button x:Name="converterButton"
+                Text="converter!"
+            ></Button>
+
+        <Label Text="Celsius grades" 
+             />
+
+        <Entry x:Name="celsiusEntry"
+               Placeholder="Celsius grades"
+            ></Entry>
+
+    </StackLayout>
+
+    
+
+</ContentPage>

@@ -1,0 +1,15 @@
+E:\ProyectsPD\Tests\ConverterTemperature\ConverterTemperature\ConverterTemperature\bin\Debug\ConverterTemperature.dll
+E:\ProyectsPD\Tests\ConverterTemperature\ConverterTemperature\ConverterTemperature\bin\Debug\ConverterTemperature.pdb
+E:\ProyectsPD\Tests\ConverterTemperature\ConverterTemperature\ConverterTemperature\bin\Debug\Xamarin.Forms.Core.dll
+E:\ProyectsPD\Tests\ConverterTemperature\ConverterTemperature\ConverterTemperature\bin\Debug\Xamarin.Forms.Platform.dll
+E:\ProyectsPD\Tests\ConverterTemperature\ConverterTemperature\ConverterTemperature\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\ProyectsPD\Tests\ConverterTemperature\ConverterTemperature\ConverterTemperature\bin\Debug\Xamarin.Forms.Core.pdb
+E:\ProyectsPD\Tests\ConverterTemperature\ConverterTemperature\ConverterTemperature\bin\Debug\Xamarin.Forms.Core.xml
+E:\ProyectsPD\Tests\ConverterTemperature\ConverterTemperature\ConverterTemperature\bin\Debug\Xamarin.Forms.Platform.pdb
+E:\ProyectsPD\Tests\ConverterTemperature\ConverterTemperature\ConverterTemperature\bin\Debug\Xamarin.Forms.Xaml.pdb
+E:\ProyectsPD\Tests\ConverterTemperature\ConverterTemperature\ConverterTemperature\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\ProyectsPD\Tests\ConverterTemperature\ConverterTemperature\ConverterTemperature\obj\Debug\ConverterTemperature.csprojResolveAssemblyReference.cache
+E:\ProyectsPD\Tests\ConverterTemperature\ConverterTemperature\ConverterTemperature\obj\Debug\ConverterTemperature.MainPage.xaml.g.cs
+E:\ProyectsPD\Tests\ConverterTemperature\ConverterTemperature\ConverterTemperature\obj\Debug\ConverterTemperature.App.xaml.g.cs
+E:\ProyectsPD\Tests\ConverterTemperature\ConverterTemperature\ConverterTemperature\obj\Debug\ConverterTemperature.dll
+E:\ProyectsPD\Tests\ConverterTemperature\ConverterTemperature\ConverterTemperature\obj\Debug\ConverterTemperature.pdb
