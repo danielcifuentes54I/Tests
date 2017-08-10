@@ -24,9 +24,9 @@ E:\ProyectsPD\Tests\ConverterTemperature\ConverterTemperature\ConverterTemperatu
 E:\ProyectsPD\Tests\ConverterTemperature\ConverterTemperature\ConverterTemperature.Android\obj\Debug\android\assets\System.ComponentModel.Composition.dll
 E:\ProyectsPD\Tests\ConverterTemperature\ConverterTemperature\ConverterTemperature.Android\obj\Debug\android\assets\System.Resources.ResourceManager.dll
 E:\ProyectsPD\Tests\ConverterTemperature\ConverterTemperature\ConverterTemperature.Android\obj\Debug\android\assets\System.Diagnostics.Tools.dll
+E:\ProyectsPD\Tests\ConverterTemperature\ConverterTemperature\ConverterTemperature.Android\obj\Debug\android\assets\System.Threading.Tasks.dll
 E:\ProyectsPD\Tests\ConverterTemperature\ConverterTemperature\ConverterTemperature.Android\obj\Debug\android\assets\System.Collections.dll
 E:\ProyectsPD\Tests\ConverterTemperature\ConverterTemperature\ConverterTemperature.Android\obj\Debug\android\assets\System.Diagnostics.Debug.dll
-E:\ProyectsPD\Tests\ConverterTemperature\ConverterTemperature\ConverterTemperature.Android\obj\Debug\android\assets\System.Threading.Tasks.dll
 E:\ProyectsPD\Tests\ConverterTemperature\ConverterTemperature\ConverterTemperature.Android\obj\Debug\android\assets\System.ObjectModel.dll
 E:\ProyectsPD\Tests\ConverterTemperature\ConverterTemperature\ConverterTemperature.Android\obj\Debug\android\assets\System.Globalization.dll
 E:\ProyectsPD\Tests\ConverterTemperature\ConverterTemperature\ConverterTemperature.Android\obj\Debug\android\assets\System.ComponentModel.dll
